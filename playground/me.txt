@@ -1,5 +1,0 @@
-{{#user}}
-Name: Ritika Khanduri
-Skills: C++, Java, HTML, CSS, JavaScript,MERN,SQL,DBMS, Algorithms 
-Email: ritikakhanduri@gmail.com
-{{/user}}
